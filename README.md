@@ -1,4 +1,5 @@
-![Colorful Business Data General Linkedin Banner](https://github.com/flamarusoto/flamarusoto/issues/1#issue-1015698310)
+https://user-images.githubusercontent.com/75645734/135936305-326acf9f-04b5-4a1f-b676-ab1c5208ecf4.mp4
+
 
 <h3 align="center">Actualmente en Argentina 📍 </h3>
 <hr />
@@ -41,7 +42,7 @@
   
  ![Captura de pantalla (43)](https://user-images.githubusercontent.com/75645734/135935586-3e6dddeb-611c-4f98-b466-b11786a859d5.png)
     
-
+<br />
 <a href="https://github.com/flamarusoto/PI-Countries-FT15" >
   <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Country App</a>
   
