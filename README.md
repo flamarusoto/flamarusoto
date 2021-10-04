@@ -1,4 +1,4 @@
-![hi!](https://github.com/flamarusoto/flamarusoto/issues/1#issue-1015698310)
+![Colorful Business Data General Linkedin Banner](https://github.com/flamarusoto/flamarusoto/issues/1#issue-1015698310)
 
 <h3 align="center">Actualmente en Argentina 📍 </h3>
 <hr />
@@ -34,26 +34,24 @@
 <h3> > My projects: </h3>
 <p align="left">
 
-<a href="https://github.com/BrunoAntenucci/PF-Regionales" ><img align="center" src="" height="20" width="30" />E-commerce </a>
+<a href="https://github.com/BrunoAntenucci/PF-Regionales" >
+ 
+  <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />E-commerce </a>
+  <br />
+  
+ ![Captura de pantalla (43)](https://user-images.githubusercontent.com/75645734/135935586-3e6dddeb-611c-4f98-b466-b11786a859d5.png)
+    
+
+<a href="https://github.com/flamarusoto/PI-Countries-FT15" >
+  <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Country App</a>
+  
+  ![Captura de pantalla (46)](https://user-images.githubusercontent.com/75645734/135934952-56c71c05-6583-4e13-b71a-abf978980a45.png)
+>
 
 
-<a href="https://github.com/flamarusoto/PI-Countries-FT15" ><img align="center" src="" height="20" width="30" />Country App</a>
-
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<img align="center" src="" width="500" />
 
 
 
 
 
-
-- 👋 Hi, I’m @flamarusoto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-flamarusoto/flamarusoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
