@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAEgbXgrfvI/NnUfR_L6UNXmjaTko8nRmg/watch?utm_content=DAEgbXgrfvI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
-</p>
+![hi!](https://github.com/flamarusoto/flamarusoto/issues/1#issue-1015698310)
+
 <h3 align="center">Actualmente en Argentina 📍 </h3>
 <hr />
 <h3> > Cómo encontrarme: </h3>
